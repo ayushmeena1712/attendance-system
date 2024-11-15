@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCPBn0BkTJBHEaQ7j1dGpDpV4WB8_vT1dE",
-  authDomain: "student-attendance-syste-20769.firebaseapp.com",
-  projectId: "student-attendance-syste-20769",
-  storageBucket: "student-attendance-syste-20769.appspot.com",
-  messagingSenderId: "644959257570",
-  appId: "1:644959257570:web:7455bc83f4254747f5efbb",
-  measurementId: "G-LZTT27WVC3"
+  apiKey: "AIzaSyCruXgD9QHVOUvKtNZMhdiQHhKKj6MF2HQ",
+  authDomain: "attendance-system-76210.firebaseapp.com",
+  projectId: "attendance-system-76210",
+  storageBucket: "attendance-system-76210.firebasestorage.app",
+  messagingSenderId: "2419512997",
+  appId: "1:2419512997:web:f943dce560cf6ec5bd9f4c",
+  measurementId: "G-3R4SJBYW97"
 };
 
 // Initialize Firebase
